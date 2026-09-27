@@ -1,0 +1,5 @@
+motif;nb_sauts;support;pred_cible;Cement;Blast Furnac Slag;Fly Ash;Water;Superplasticizer;Coarse Aggregate;Fine Aggregate;Age;Concrete compressive strength
+-;-;-;-;167.0;75.4;167.0;164.03;7.91;1007.3;770.1;100.0;54.28
+Fine Aggregate=+ -> Cement=- -> Coarse Aggregate=- -> Water=-;4;0.464;53.63;164.7109 (↓);-;-;141.321 (↓);-;1004.5802 (↓);852.2881 (↑);-;53.63 (↓)
+Cement=- -> Fine Aggregate=- -> Water=-;3;0.475;53.63;164.0087 (↓);-;-;140.9081 (↓);-;-;769.3261 (↓);-;53.63 (↓)
+Coarse Aggregate=+ -> Cement=- -> Fine Aggregate=-, Water=+ -> Age=-;4;0.296;53.63;166.0002 (↓);-;-;164.1262 (↑);-;1043.0697 (↑);769.8958 (↓);98.6827 (↓);53.63 (↓)

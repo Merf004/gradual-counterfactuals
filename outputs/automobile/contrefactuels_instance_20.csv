@@ -1,0 +1,5 @@
+motif;nb_sauts;support;pred_cible;normalized_losses;wheel_base;length;width;height;curb_weight;engine_size;bore;stroke;compression_ratio;horsepower;peak_rpm;city_mpg;highway_mpg;price
+-;-;-;-;194.0;91.3;170.7;67.9;49.7;3071.0;181.0;3.43;3.27;9.0;160.0;5200.0;19.0;25.0;18651.86
+normalized_losses=+ -> length=- -> height=+ -> width=+;4;0.409;17751.86;249.0068 (↑);-;157.5621 (↓);71.5813 (↑);55.1445 (↑);-;-;-;-;-;-;-;-;-;17751.99 (↓)
+height=-, normalized_losses=+ -> stroke=- -> length=+;3;0.291;17751.86;246.7969 (↑);-;185.9023 (↑);-;49.4445 (↓);-;-;-;2.4535 (↓);-;-;-;-;-;17751.82 (↓)
+height=- -> normalized_losses=+ -> highway_mpg=+ -> length=+;4;0.417;17751.86;246.4336 (↑);-;183.1843 (↑);-;49.4 (↓);-;-;-;-;-;-;-;-;26.7417 (↑);17751.88 (↓)

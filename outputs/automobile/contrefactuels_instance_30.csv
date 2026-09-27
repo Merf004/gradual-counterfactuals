@@ -1,0 +1,11 @@
+motif;nb_sauts;support;pred_cible;normalized_losses;wheel_base;length;width;height;curb_weight;engine_size;bore;stroke;compression_ratio;horsepower;peak_rpm;city_mpg;highway_mpg;price
+-;-;-;-;65.0;102.4;175.6;66.5;54.9;2414.0;122.0;3.31;3.54;8.7;92.0;4200.0;27.0;32.0;10384.89
+peak_rpm=- -> stroke=- -> length=+ -> curb_weight=+;4;0.378;12884.89;-;-;186.4171 (↑);-;-;3307.8586 (↑);-;-;2.766 (↓);-;-;4150.0 (↓);-;-;12884.91 (↑)
+city_mpg=+, highway_mpg=+ -> wheel_base=+ -> length=+ -> curb_weight=+;4;0.323;12884.89;-;-;186.5391 (↑);-;-;3567.2944 (↑);-;-;-;-;-;-;41.3865 (↑);46.3865 (↑);12884.91 (↑)
+stroke=- -> length=+ -> normalized_losses=- -> curb_weight=+;4;0.433;12884.89;-;-;186.2655 (↑);-;-;3322.479 (↑);-;-;2.7168 (↓);-;-;-;-;-;12884.81 (↑)
+highway_mpg=+ -> stroke=- -> length=+ -> curb_weight=+;4;0.37;12884.89;-;-;187.8311 (↑);-;-;3478.7656 (↑);-;-;2.9922 (↓);-;-;-;-;44.2729 (↑);12884.82 (↑)
+city_mpg=+ -> length=+ -> normalized_losses=- -> curb_weight=+;4;0.386;12884.89;-;-;186.9379 (↑);-;-;3467.0693 (↑);-;-;-;-;-;-;44.8173 (↑);-;12884.97 (↑)
+wheel_base=+ -> city_mpg=+, highway_mpg=+, horsepower=- -> length=+ -> curb_weight=+;4;0.268;12884.89;-;103.9791 (↑);186.4138 (↑);-;-;3594.3169 (↑);-;-;-;-;63.791 (↓);-;41.1045 (↑);46.1045 (↑);12885.02 (↑)
+highway_mpg=+, horsepower=- -> length=+ -> curb_weight=+;3;0.307;12884.89;-;-;188.9715 (↑);-;-;3512.6445 (↑);-;-;-;-;65.2036 (↓);-;-;45.3982 (↑);12884.81 (↑)
+city_mpg=+, horsepower=- -> length=+ -> normalized_losses=- -> curb_weight=+;4;0.299;12884.89;-;-;186.516 (↑);-;-;3546.5234 (↑);-;-;-;-;55.6189 (↓);-;45.1906 (↑);-;12884.9 (↑)
+height=+, wheel_base=+ -> city_mpg=+ -> length=+ -> curb_weight=+;4;0.315;12884.89;-;104.5979 (↑);187.1653 (↑);-;55.7159 (↑);3420.6875 (↑);-;-;-;-;-;-;43.0918 (↑);-;12884.8 (↑)

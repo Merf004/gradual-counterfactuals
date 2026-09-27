@@ -1,0 +1,5 @@
+motif;nb_sauts;support;pred_cible;Gross;Budget;Screens;Likes;Dislikes;Comments;Aggregate Followers;Views
+-;-;-;-;42500000.0;25000000.0;2991.0;50002.0;1005.0;3525.0;776000.0;9879983.65
+Budget=-, Dislikes=- -> Aggregate Followers=+ -> Screens=- -> Likes=-;4;0.284;7409987.74;-;16539868.1641 (↓);764.5745 (↓);30391.0121 (↓);663.9478 (↓);-;14266949.9512 (↑);7409968.34 (↓)
+Dislikes=-, Screens=- -> Aggregate Followers=+ -> Comments=+ -> Likes=-;4;0.345;7409987.74;-;-;1554.6965 (↓);18482.8149 (↓);522.0676 (↓);16300.0674 (↑);10972691.1621 (↑);7410039.95 (↓)
+Comments=+ -> Screens=- -> Dislikes=+ -> Likes=-;4;0.459;7409987.74;-;-;2.0 (↓);12830.8464 (↓);5750.6464 (↑);13196.6701 (↑);-;7409988.64 (↓)

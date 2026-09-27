@@ -1,0 +1,6 @@
+motif;nb_sauts;support;pred_cible;normalized_losses;wheel_base;length;width;height;curb_weight;engine_size;bore;stroke;compression_ratio;horsepower;peak_rpm;city_mpg;highway_mpg;price
+-;-;-;-;110;103.3;174.6;64.6;59.8;2535;122;3.34;3.46;8.5;88;5000;24;30;10514.23
+NICE (proximity);-;-;[11400, 12600];-;-;-;-;-;-;-;-;2.64 (↓);-;-;-;-;-;11950.82 (↑)
+NICE (proximity);-;-;[11400, 12600];-;-;-;-;-;-;-;-;2.64 (↓);-;-;-;23 (↓);-;12114.06 (↑)
+NICE (proximity);-;-;[11400, 12600];-;-;-;-;-;-;-;-;-;-;111 (↑);-;23 (↓);-;11414.75 (↑)
+NICE (proximity);-;-;[11400, 12600];-;-;-;-;-;-;-;-;-;-;-;-;23 (↓);23 (↓);11424.76 (↑)
