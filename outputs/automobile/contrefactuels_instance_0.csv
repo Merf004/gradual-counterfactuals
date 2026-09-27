@@ -1,4 +1,4 @@
 motif;nb_sauts;support;pred_cible;normalized_losses;wheel_base;length;width;height;curb_weight;engine_size;bore;stroke;compression_ratio;horsepower;peak_rpm;city_mpg;highway_mpg;price
 -;-;-;-;102.0;97.0;172.0;65.4;54.3;2510.0;108.0;3.62;2.64;7.7;111.0;4800.0;24.0;29.0;10922.65
-length=+ -> wheel_base=+ -> curb_weight=+;3;0.433;12922.65;-;97.0091 (up);182.2797 (up);-;-;3336.2451 (up);-;-;-;-;-;-;-;-;12922.63 (up)
-compression_ratio=- -> length=+ -> wheel_base=+ -> curb_weight=+;4;0.433;12922.65;-;97.0136 (up);181.8613 (up);-;-;3335.1055 (up);-;-;-;7.5 (down);-;-;-;-;12922.53 (up)
+length=+ -> wheel_base=+ -> curb_weight=+;3;0.433;11922.65;-;97.0091 (up);182.2797 (up);-;-;2879.2461 (up);-;-;-;-;-;-;-;-;11922.6 (up)
+compression_ratio=- -> length=+ -> wheel_base=+ -> curb_weight=+;4;0.433;11922.65;-;97.0136 (up);181.8613 (up);-;-;2878.1064 (up);-;-;-;7.5 (down);-;-;-;-;11922.66 (up)
