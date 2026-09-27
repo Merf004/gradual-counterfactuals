@@ -1,0 +1,605 @@
+motif;support;seq_num;taille;cible_depart;cible_arrivee
+height=-, length=-;0.276;4;2;31600.0;35056.0
+length=-, wheel_base=-;0.339;5;2;31600.0;35056.0
+height=-, wheel_base=-;0.291;3;2;31600.0;35056.0
+length=-;0.488;16;2;31600.0;35056.0
+highway_mpg=-;0.417;11;2;31600.0;35056.0
+wheel_base=-;0.425;8;2;31600.0;35056.0
+height=-;0.433;9;3;28248.0;35056.0
+curb_weight=+;0.52;18;3;28176.0;32250.0
+length=+, wheel_base=+;0.323;6;2;28176.0;31600.0
+curb_weight=+, wheel_base=+;0.291;5;2;28176.0;31600.0
+wheel_base=+;0.433;12;2;28176.0;31600.0
+length=+;0.441;12;2;28176.0;31600.0
+curb_weight=+, length=+;0.307;4;2;28176.0;31600.0
+length=-;0.488;15;2;23875.0;28176.0
+stroke=+;0.425;11;2;22625.0;25552.0
+height=+;0.465;15;2;22625.0;25552.0
+curb_weight=+, height=+;0.291;5;2;22625.0;25552.0
+curb_weight=+, stroke=+;0.252;3;2;22625.0;25552.0
+curb_weight=+;0.52;17;2;22625.0;25552.0
+city_mpg=-, compression_ratio=-, highway_mpg=-, horsepower=+;0.26;5;2;22470.0;23875.0
+compression_ratio=-, horsepower=+;0.283;6;2;22470.0;23875.0
+city_mpg=-, compression_ratio=-, highway_mpg=-;0.299;5;2;22470.0;23875.0
+city_mpg=-, highway_mpg=-;0.354;7;2;22470.0;23875.0
+city_mpg=-, compression_ratio=-, horsepower=+;0.276;6;2;22470.0;23875.0
+horsepower=+, peak_rpm=+;0.252;4;2;22470.0;23875.0
+city_mpg=-, horsepower=+;0.339;9;2;22470.0;23875.0
+highway_mpg=-;0.417;10;2;22470.0;23875.0
+city_mpg=-, highway_mpg=-, horsepower=+;0.307;7;2;22470.0;23875.0
+highway_mpg=-, horsepower=+;0.339;10;2;22470.0;23875.0
+horsepower=+;0.457;18;2;22470.0;23875.0
+city_mpg=-, compression_ratio=-;0.323;7;2;22470.0;23875.0
+compression_ratio=-, highway_mpg=-;0.307;5;2;22470.0;23875.0
+city_mpg=-;0.402;11;2;22470.0;23875.0
+peak_rpm=+;0.402;10;2;22470.0;23875.0
+compression_ratio=-;0.433;12;2;22470.0;23875.0
+city_mpg=+;0.386;11;2;21485.0;22470.0
+compression_ratio=+;0.402;9;2;21485.0;22470.0
+compression_ratio=+, stroke=+;0.252;2;2;21485.0;22470.0
+engine_size=-;0.386;9;4;21485.0;23875.0
+stroke=+;0.425;10;2;21485.0;22470.0
+city_mpg=+, compression_ratio=+;0.299;5;2;21485.0;22470.0
+bore=+;0.449;14;2;21105.0;22018.0
+horsepower=+;0.457;17;2;21105.0;22018.0
+bore=+, horsepower=+;0.26;5;2;21105.0;22018.0
+curb_weight=+;0.52;16;2;20970.0;21485.0
+bore=-;0.417;11;2;19045.0;20970.0
+width=-;0.409;10;2;19045.0;20970.0
+peak_rpm=-;0.378;8;2;19045.0;20970.0
+height=-, normalized_losses=+;0.268;2;2;18950.0;19699.0
+engine_size=+;0.394;13;2;18950.0;19699.0
+normalized_losses=+;0.449;11;2;18950.0;19699.0
+height=-;0.433;8;2;18950.0;19699.0
+normalized_losses=-;0.496;16;2;18399.0;18950.0
+height=+, normalized_losses=-;0.299;4;2;18399.0;18950.0
+height=+;0.465;14;2;18399.0;18950.0
+highway_mpg=-, horsepower=+;0.339;9;2;18280.0;18420.0
+length=+;0.441;11;2;18280.0;18420.0
+horsepower=+;0.457;16;2;18280.0;18420.0
+highway_mpg=-;0.417;9;2;18280.0;18420.0
+engine_size=+;0.394;12;2;18150.0;18399.0
+stroke=+;0.425;9;2;18150.0;18399.0
+height=-, length=-;0.276;3;2;17950.0;18280.0
+normalized_losses=-;0.496;15;2;17950.0;18280.0
+curb_weight=-;0.457;11;2;17950.0;18280.0
+curb_weight=-, length=-;0.299;8;2;17950.0;18280.0
+compression_ratio=-;0.433;11;2;17950.0;18280.0
+height=-;0.433;7;3;17950.0;18399.0
+length=-, width=-;0.283;5;3;17710.0;18280.0
+width=-;0.409;9;3;17710.0;18280.0
+length=-;0.488;14;3;17710.0;18280.0
+wheel_base=+;0.433;11;2;17669.0;17950.0
+horsepower=-;0.402;11;2;17669.0;17950.0
+height=+, horsepower=-;0.276;4;2;17669.0;17950.0
+normalized_losses=+;0.449;10;2;17669.0;17950.0
+height=+, wheel_base=+;0.315;4;2;17669.0;17950.0
+height=+;0.465;13;2;17669.0;17950.0
+stroke=+;0.425;8;2;16925.0;17669.0
+curb_weight=+, normalized_losses=-;0.291;4;2;16925.0;17669.0
+curb_weight=+, stroke=+;0.252;2;2;16925.0;17669.0
+curb_weight=+, engine_size=+;0.299;7;2;16925.0;17669.0
+curb_weight=+, peak_rpm=-;0.268;3;2;16925.0;17669.0
+normalized_losses=-, peak_rpm=-;0.252;2;2;16925.0;17669.0
+curb_weight=+, horsepower=+;0.26;5;2;16925.0;17669.0
+peak_rpm=-;0.378;7;2;16925.0;17669.0
+normalized_losses=-;0.496;14;2;16925.0;17669.0
+engine_size=+;0.394;11;2;16925.0;17669.0
+curb_weight=+;0.52;15;2;16925.0;17669.0
+horsepower=+, stroke=+;0.26;4;2;16925.0;17669.0
+city_mpg=-, compression_ratio=-, highway_mpg=-, horsepower=+;0.26;4;2;16900.0;17450.0
+city_mpg=-, compression_ratio=-, highway_mpg=-;0.299;4;2;16900.0;17450.0
+city_mpg=-, highway_mpg=-;0.354;6;2;16900.0;17450.0
+city_mpg=-, horsepower=+;0.339;8;2;16900.0;17450.0
+city_mpg=-;0.402;10;2;16900.0;17450.0
+highway_mpg=-, horsepower=+;0.339;8;2;16900.0;17450.0
+compression_ratio=-;0.433;10;2;16900.0;17450.0
+compression_ratio=-, highway_mpg=-;0.307;4;2;16900.0;17450.0
+highway_mpg=-;0.417;8;2;16900.0;17450.0
+city_mpg=-, compression_ratio=-;0.323;6;2;16900.0;17450.0
+compression_ratio=-, horsepower=+;0.283;5;2;16900.0;17450.0
+horsepower=+;0.457;15;3;16900.0;17669.0
+city_mpg=-, compression_ratio=-, horsepower=+;0.276;5;2;16900.0;17450.0
+city_mpg=-, highway_mpg=-, horsepower=+;0.307;6;2;16900.0;17450.0
+wheel_base=-;0.425;7;4;16845.0;17669.0
+normalized_losses=+;0.449;9;2;16845.0;16925.0
+length=-, width=-;0.283;4;2;16845.0;16925.0
+bore=-, length=-;0.268;3;3;16845.0;17450.0
+length=-, wheel_base=-;0.339;4;4;16845.0;17669.0
+bore=-;0.417;10;3;16845.0;17450.0
+length=-, normalized_losses=+;0.268;3;2;16845.0;16925.0
+length=-;0.488;13;4;16845.0;17669.0
+width=-;0.409;8;2;16845.0;16925.0
+normalized_losses=+, wheel_base=-;0.26;2;2;16845.0;16925.0
+city_mpg=+;0.386;10;2;16630.0;16900.0
+highway_mpg=+;0.37;6;2;16630.0;16900.0
+compression_ratio=+, highway_mpg=+;0.252;2;2;16630.0;16900.0
+city_mpg=+, compression_ratio=+;0.299;4;2;16630.0;16900.0
+engine_size=+;0.394;10;2;16630.0;16900.0
+compression_ratio=+;0.402;8;2;16630.0;16900.0
+city_mpg=+, highway_mpg=+;0.323;5;2;16630.0;16900.0
+bore=+, normalized_losses=-;0.268;4;2;16558.0;16845.0
+length=+, normalized_losses=-;0.268;2;2;16558.0;16845.0
+normalized_losses=-, stroke=-;0.276;3;2;16558.0;16845.0
+normalized_losses=-, wheel_base=+;0.268;4;2;16558.0;16845.0
+stroke=-;0.433;11;2;16558.0;16845.0
+length=+;0.441;10;2;16558.0;16845.0
+bore=+, stroke=-;0.276;4;2;16558.0;16845.0
+bore=+, length=+;0.26;7;2;16558.0;16845.0
+length=+, width=+;0.283;4;2;16558.0;16845.0
+bore=+, wheel_base=+;0.252;5;2;16558.0;16845.0
+wheel_base=+, width=+;0.268;6;2;16558.0;16845.0
+length=+, wheel_base=+;0.323;5;2;16558.0;16845.0
+bore=+;0.449;13;2;16558.0;16845.0
+normalized_losses=-;0.496;13;2;16558.0;16845.0
+wheel_base=+;0.433;10;2;16558.0;16845.0
+city_mpg=-, compression_ratio=-;0.323;5;2;16515.0;16630.0
+city_mpg=-;0.402;9;2;16515.0;16630.0
+compression_ratio=-;0.433;9;2;16515.0;16630.0
+engine_size=+;0.394;9;2;16430.0;16558.0
+peak_rpm=-;0.378;6;3;16430.0;16630.0
+horsepower=+, stroke=+;0.26;3;2;16430.0;16558.0
+highway_mpg=-;0.417;7;2;16430.0;16558.0
+horsepower=+;0.457;14;2;16430.0;16558.0
+stroke=+;0.425;7;2;16430.0;16558.0
+width=+;0.425;9;4;16430.0;16845.0
+highway_mpg=-, horsepower=+;0.339;7;2;16430.0;16558.0
+bore=+;0.449;12;2;15998.0;16515.0
+height=+, normalized_losses=-;0.299;3;2;15998.0;16515.0
+city_mpg=+, normalized_losses=-;0.26;3;2;15998.0;16515.0
+height=+;0.465;12;2;15998.0;16515.0
+normalized_losses=-;0.496;12;2;15998.0;16515.0
+bore=+, normalized_losses=-;0.268;3;2;15998.0;16515.0
+city_mpg=+;0.386;9;2;15998.0;16515.0
+curb_weight=-;0.457;10;2;15690.0;16430.0
+curb_weight=-, wheel_base=-;0.268;3;2;15690.0;16430.0
+length=-, wheel_base=-;0.339;3;2;15690.0;16430.0
+curb_weight=-, length=-;0.299;7;2;15690.0;16430.0
+length=-;0.488;12;2;15690.0;16430.0
+height=-;0.433;6;2;15580.0;15998.0
+height=-, wheel_base=-;0.291;2;2;15580.0;15998.0
+horsepower=+;0.457;13;2;15580.0;15998.0
+compression_ratio=+;0.402;7;2;15580.0;15998.0
+height=-, horsepower=+;0.283;4;2;15580.0;15998.0
+wheel_base=-;0.425;6;3;15580.0;16430.0
+curb_weight=+;0.52;14;2;15510.0;15690.0
+bore=-;0.417;9;2;15510.0;15690.0
+curb_weight=+, length=+;0.307;3;2;15510.0;15690.0
+horsepower=-;0.402;10;2;14399.0;15580.0
+engine_size=-, stroke=-;0.26;4;2;14399.0;15580.0
+engine_size=-;0.386;8;2;14399.0;15580.0
+length=+, normalized_losses=-;0.268;1;2;13950.0;15510.0
+bore=+, length=+;0.26;6;2;13950.0;15510.0
+bore=+;0.449;11;2;13950.0;15510.0
+bore=+, normalized_losses=-;0.268;2;2;13950.0;15510.0
+normalized_losses=-;0.496;11;2;13950.0;15510.0
+bore=+, stroke=-;0.276;3;2;13950.0;15510.0
+length=+;0.441;9;4;13950.0;15690.0
+stroke=-;0.433;10;3;13950.0;15580.0
+normalized_losses=-, stroke=-;0.276;2;2;13950.0;15510.0
+city_mpg=-, normalized_losses=+;0.252;3;2;13415.0;13499.0
+length=-, normalized_losses=+;0.268;2;3;13415.0;13950.0
+length=-;0.488;11;3;13415.0;13950.0
+curb_weight=+, highway_mpg=-;0.26;3;2;13415.0;13499.0
+normalized_losses=+;0.449;8;3;13415.0;13950.0
+curb_weight=+;0.52;13;2;13415.0;13499.0
+city_mpg=-, highway_mpg=-, horsepower=+;0.307;5;2;13200.0;13499.0
+city_mpg=-, compression_ratio=-;0.323;4;2;13200.0;13499.0
+city_mpg=-, compression_ratio=-, highway_mpg=-;0.299;3;2;13200.0;13499.0
+city_mpg=-, highway_mpg=-;0.354;5;3;13200.0;13499.0
+city_mpg=-, compression_ratio=-, highway_mpg=-, horsepower=+;0.26;3;2;13200.0;13499.0
+width=-;0.409;7;2;13200.0;13499.0
+compression_ratio=-, highway_mpg=-;0.307;3;2;13200.0;13499.0
+compression_ratio=-, horsepower=+;0.283;4;2;13200.0;13499.0
+city_mpg=-, compression_ratio=-, horsepower=+;0.276;4;2;13200.0;13499.0
+highway_mpg=-, horsepower=+;0.339;6;2;13200.0;13499.0
+city_mpg=-, horsepower=+;0.339;7;2;13200.0;13499.0
+compression_ratio=-;0.433;8;2;13200.0;13499.0
+highway_mpg=-;0.417;6;3;13200.0;13499.0
+city_mpg=-;0.402;8;3;13200.0;13499.0
+horsepower=+;0.457;12;2;13200.0;13499.0
+wheel_base=-;0.425;5;2;13200.0;13499.0
+curb_weight=+, wheel_base=+;0.291;4;2;12170.0;13200.0
+curb_weight=+, engine_size=+;0.299;6;2;12170.0;13200.0
+curb_weight=+, stroke=+;0.252;1;2;12170.0;13200.0
+curb_weight=+, height=+;0.291;4;2;12170.0;13200.0
+city_mpg=+;0.386;8;2;12170.0;13200.0
+wheel_base=+;0.433;9;2;12170.0;13200.0
+height=+, wheel_base=+;0.315;3;2;12170.0;13200.0
+engine_size=+;0.394;8;2;12170.0;13200.0
+width=+;0.425;8;2;12170.0;13200.0
+compression_ratio=+;0.402;6;2;12170.0;13200.0
+stroke=+;0.425;6;2;12170.0;13200.0
+city_mpg=+, compression_ratio=+;0.299;3;2;12170.0;13200.0
+compression_ratio=+, stroke=+;0.252;1;2;12170.0;13200.0
+height=+;0.465;11;3;12170.0;13415.0
+wheel_base=+, width=+;0.268;5;2;12170.0;13200.0
+curb_weight=+, normalized_losses=-;0.291;3;2;11850.0;12940.0
+normalized_losses=-;0.496;10;2;11850.0;12940.0
+height=+;0.465;10;2;11248.0;11850.0
+curb_weight=+, height=+;0.291;3;2;11248.0;11850.0
+peak_rpm=+;0.402;9;2;11248.0;11850.0
+normalized_losses=+;0.449;7;2;11248.0;11850.0
+city_mpg=-;0.402;7;2;11248.0;11850.0
+city_mpg=-, normalized_losses=+;0.252;2;2;11248.0;11850.0
+horsepower=+;0.457;11;2;11245.0;11694.0
+length=-;0.488;10;2;11245.0;11694.0
+curb_weight=+;0.52;12;6;11245.0;13200.0
+curb_weight=+, horsepower=+;0.26;4;2;11245.0;11694.0
+city_mpg=+, normalized_losses=-;0.26;2;2;11199.0;11248.0
+bore=-;0.417;8;2;11199.0;11248.0
+city_mpg=+;0.386;7;2;11199.0;11248.0
+normalized_losses=-;0.496;9;2;11199.0;11248.0
+normalized_losses=-, wheel_base=+;0.268;3;2;11199.0;11248.0
+wheel_base=+;0.433;8;2;11199.0;11248.0
+length=+;0.441;8;2;10698.0;11245.0
+compression_ratio=-;0.433;7;2;10698.0;11245.0
+peak_rpm=-;0.378;5;2;10345.0;10698.0
+city_mpg=+, highway_mpg=+;0.323;4;2;10345.0;10698.0
+stroke=-;0.433;9;2;10345.0;10698.0
+horsepower=-;0.402;9;2;10345.0;10698.0
+highway_mpg=+;0.37;5;2;10345.0;10698.0
+height=+;0.465;9;2;10345.0;10698.0
+city_mpg=+;0.386;6;2;10345.0;10698.0
+wheel_base=+;0.433;7;2;10345.0;10698.0
+height=+, horsepower=-;0.276;3;2;10345.0;10698.0
+curb_weight=+, height=+;0.291;2;2;10345.0;10698.0
+highway_mpg=+, horsepower=-;0.307;3;2;10345.0;10698.0
+city_mpg=+, highway_mpg=+, horsepower=-;0.268;2;2;10345.0;10698.0
+city_mpg=+, horsepower=-;0.299;4;2;10345.0;10698.0
+curb_weight=+, wheel_base=+;0.291;3;2;10345.0;10698.0
+height=+, wheel_base=+;0.315;2;2;10345.0;10698.0
+curb_weight=+;0.52;11;3;10345.0;11199.0
+curb_weight=+, peak_rpm=-;0.268;2;2;10345.0;10698.0
+stroke=+;0.425;5;2;10198.0;10345.0
+bore=-;0.417;7;2;10198.0;10345.0
+bore=-, stroke=+;0.276;3;2;10198.0;10345.0
+city_mpg=+, highway_mpg=+;0.323;3;2;9989.0;10245.0
+highway_mpg=+, horsepower=-;0.307;2;2;9989.0;10245.0
+height=+, horsepower=-;0.276;2;2;9989.0;10245.0
+city_mpg=+;0.386;5;2;9989.0;10245.0
+compression_ratio=-;0.433;6;2;9989.0;10245.0
+horsepower=-;0.402;8;2;9989.0;10245.0
+city_mpg=+, highway_mpg=+, horsepower=-;0.268;1;2;9989.0;10245.0
+highway_mpg=+;0.37;4;2;9989.0;10245.0
+city_mpg=+, horsepower=-;0.299;3;2;9989.0;10245.0
+height=+;0.465;8;2;9989.0;10245.0
+curb_weight=-;0.457;9;3;9989.0;10345.0
+peak_rpm=+, wheel_base=-;0.26;4;2;9988.0;10198.0
+stroke=-;0.433;8;2;9988.0;10198.0
+width=-;0.409;6;2;9988.0;10198.0
+peak_rpm=+;0.402;8;2;9988.0;10198.0
+wheel_base=-;0.425;4;2;9988.0;10198.0
+bore=+, engine_size=+;0.276;6;2;9980.0;9989.0
+curb_weight=+, length=+;0.307;2;2;9980.0;9989.0
+curb_weight=+, engine_size=+;0.299;5;2;9980.0;9989.0
+bore=+, curb_weight=+;0.276;4;2;9980.0;9989.0
+curb_weight=+;0.52;10;2;9980.0;9989.0
+bore=+;0.449;10;2;9980.0;9989.0
+curb_weight=+, horsepower=+;0.26;3;2;9980.0;9989.0
+compression_ratio=+;0.402;5;2;9980.0;9989.0
+bore=+, length=+;0.26;5;2;9980.0;9989.0
+bore=+, horsepower=+;0.26;4;2;9980.0;9989.0
+length=+;0.441;7;2;9980.0;9989.0
+horsepower=+;0.457;10;2;9980.0;9989.0
+stroke=+;0.425;4;2;9960.0;9988.0
+engine_size=+;0.394;7;3;9960.0;9989.0
+horsepower=-;0.402;7;2;9959.0;9980.0
+curb_weight=-, length=-;0.299;6;2;9959.0;9980.0
+curb_weight=-;0.457;8;2;9959.0;9980.0
+length=-;0.488;9;3;9549.0;9980.0
+stroke=-;0.433;7;2;9549.0;9960.0
+engine_size=-;0.386;7;2;9549.0;9960.0
+engine_size=-, stroke=-;0.26;3;2;9549.0;9960.0
+curb_weight=+;0.52;9;2;9538.0;9959.0
+width=+;0.425;7;2;9538.0;9959.0
+compression_ratio=-;0.433;5;3;9495.0;9959.0
+bore=+, engine_size=+;0.276;5;2;9495.0;9549.0
+bore=+;0.449;9;2;9495.0;9549.0
+engine_size=+;0.394;6;2;9495.0;9549.0
+horsepower=-;0.402;6;2;9279.0;9495.0
+city_mpg=+, compression_ratio=+;0.299;2;2;9279.0;9495.0
+engine_size=-;0.386;6;2;9279.0;9495.0
+city_mpg=+, horsepower=-;0.299;2;2;9279.0;9495.0
+height=+;0.465;7;2;9279.0;9495.0
+height=+, horsepower=-;0.276;1;2;9279.0;9495.0
+city_mpg=+;0.386;4;2;9279.0;9495.0
+compression_ratio=+;0.402;4;2;9279.0;9495.0
+normalized_losses=+;0.449;6;3;9258.0;9298.0
+horsepower=-;0.402;5;2;8949.0;9258.0
+curb_weight=-, engine_size=-;0.268;3;3;8948.0;9258.0
+peak_rpm=+;0.402;7;2;8948.0;9095.0
+length=-;0.488;8;3;8948.0;9258.0
+peak_rpm=+, wheel_base=-;0.26;3;2;8948.0;9095.0
+height=-, length=-;0.276;2;3;8948.0;9258.0
+length=-, wheel_base=-;0.339;2;3;8948.0;9258.0
+curb_weight=-, length=-;0.299;5;3;8948.0;9258.0
+engine_size=-;0.386;5;3;8948.0;9258.0
+height=-, horsepower=+;0.283;3;2;8921.0;8949.0
+curb_weight=-;0.457;7;4;8921.0;9258.0
+curb_weight=-, wheel_base=-;0.268;2;4;8921.0;9258.0
+height=-;0.433;5;5;8921.0;9279.0
+height=-, wheel_base=-;0.291;1;4;8921.0;9258.0
+wheel_base=-;0.425;3;4;8921.0;9258.0
+bore=-, stroke=+;0.276;2;2;8845.0;8948.0
+normalized_losses=-;0.496;8;2;8845.0;8948.0
+bore=-;0.417;6;2;8845.0;8948.0
+city_mpg=-, compression_ratio=-;0.323;3;2;8778.0;8921.0
+horsepower=+;0.457;9;4;8778.0;8949.0
+city_mpg=-;0.402;6;2;8778.0;8921.0
+compression_ratio=-, horsepower=+;0.283;3;2;8778.0;8921.0
+city_mpg=-, horsepower=+;0.339;6;2;8778.0;8921.0
+stroke=+;0.425;3;3;8778.0;8948.0
+city_mpg=-, compression_ratio=-, horsepower=+;0.276;3;2;8778.0;8921.0
+horsepower=+, stroke=+;0.26;2;3;8778.0;8948.0
+compression_ratio=-;0.433;4;2;8778.0;8921.0
+bore=+, wheel_base=+;0.252;4;2;8558.0;8845.0
+bore=+, length=+;0.26;4;2;8558.0;8845.0
+length=+, wheel_base=+;0.323;4;2;8558.0;8845.0
+wheel_base=+;0.433;6;3;8558.0;8921.0
+bore=+;0.449;8;2;8558.0;8845.0
+length=+;0.441;6;2;8558.0;8845.0
+peak_rpm=+;0.402;6;2;8495.0;8558.0
+length=-, wheel_base=-;0.339;1;2;8495.0;8558.0
+bore=-, peak_rpm=+;0.252;4;2;8495.0;8558.0
+length=-;0.488;7;2;8495.0;8558.0
+engine_size=-, stroke=-;0.26;2;2;8495.0;8778.0
+length=-, width=-;0.283;3;2;8495.0;8558.0
+peak_rpm=+, wheel_base=-;0.26;2;2;8495.0;8558.0
+curb_weight=-, length=-;0.299;4;2;8495.0;8558.0
+wheel_base=-;0.425;2;2;8495.0;8558.0
+bore=-, length=-;0.268;2;2;8495.0;8558.0
+horsepower=+, peak_rpm=+;0.252;3;2;8495.0;8558.0
+horsepower=+;0.457;8;2;8495.0;8558.0
+curb_weight=-, wheel_base=-;0.268;1;2;8495.0;8558.0
+width=-;0.409;5;3;8495.0;8778.0
+stroke=-;0.433;6;2;8495.0;8778.0
+city_mpg=+, normalized_losses=-;0.26;1;2;8449.0;8495.0
+highway_mpg=+;0.37;3;2;8449.0;8495.0
+height=+;0.465;6;2;8449.0;8495.0
+curb_weight=-;0.457;6;3;8449.0;8558.0
+engine_size=-;0.386;4;4;8449.0;8778.0
+height=+, normalized_losses=-;0.299;2;2;8449.0;8495.0
+curb_weight=-, engine_size=-;0.268;2;3;8449.0;8558.0
+bore=-;0.417;5;3;8449.0;8558.0
+city_mpg=+, highway_mpg=+;0.323;2;2;8449.0;8495.0
+city_mpg=+;0.386;3;2;8449.0;8495.0
+normalized_losses=-;0.496;7;2;8449.0;8495.0
+curb_weight=+, highway_mpg=-;0.26;2;2;8249.0;8449.0
+bore=+, horsepower=+;0.26;3;2;8249.0;8449.0
+bore=+, engine_size=+;0.276;4;2;8249.0;8449.0
+horsepower=+;0.457;7;2;8249.0;8449.0
+height=-;0.433;4;2;8249.0;8449.0
+city_mpg=-, highway_mpg=-, horsepower=+;0.307;4;2;8249.0;8449.0
+height=-, horsepower=+;0.283;2;2;8249.0;8449.0
+engine_size=+;0.394;5;2;8249.0;8449.0
+length=+;0.441;5;3;8249.0;8495.0
+curb_weight=+, wheel_base=+;0.291;2;2;8249.0;8449.0
+bore=+;0.449;7;2;8249.0;8449.0
+city_mpg=-, horsepower=+;0.339;5;2;8249.0;8449.0
+bore=+, length=+;0.26;3;2;8249.0;8449.0
+city_mpg=-;0.402;5;2;8249.0;8449.0
+highway_mpg=-;0.417;5;2;8249.0;8449.0
+city_mpg=-, highway_mpg=-;0.354;4;2;8249.0;8449.0
+highway_mpg=-, horsepower=+;0.339;5;2;8249.0;8449.0
+curb_weight=+, engine_size=+;0.299;4;2;8249.0;8449.0
+width=+;0.425;6;3;8249.0;8495.0
+bore=+, wheel_base=+;0.252;3;2;8249.0;8449.0
+length=+, wheel_base=+;0.323;3;3;8249.0;8495.0
+curb_weight=+;0.52;8;2;8249.0;8449.0
+bore=+, curb_weight=+;0.276;3;2;8249.0;8449.0
+curb_weight=+, horsepower=+;0.26;2;2;8249.0;8449.0
+wheel_base=+, width=+;0.268;4;3;8249.0;8495.0
+curb_weight=+, length=+;0.307;1;2;8249.0;8449.0
+length=+, width=+;0.283;3;3;8249.0;8495.0
+wheel_base=+;0.433;5;4;8238.0;8495.0
+width=-;0.409;4;2;8195.0;8249.0
+length=-, width=-;0.283;2;2;8195.0;8249.0
+city_mpg=+;0.386;2;3;8189.0;8249.0
+horsepower=-;0.402;4;3;8189.0;8249.0
+city_mpg=+, horsepower=-;0.299;1;3;8189.0;8249.0
+curb_weight=-;0.457;5;3;8189.0;8249.0
+engine_size=-;0.386;3;3;8189.0;8249.0
+length=-;0.488;6;3;8189.0;8249.0
+curb_weight=-, length=-;0.299;3;3;8189.0;8249.0
+curb_weight=-, engine_size=-;0.268;1;3;8189.0;8249.0
+stroke=-;0.433;5;2;8189.0;8238.0
+engine_size=-, stroke=-;0.26;1;2;8189.0;8238.0
+wheel_base=+, width=+;0.268;3;2;8058.0;8195.0
+normalized_losses=-;0.496;6;2;8058.0;8195.0
+wheel_base=+;0.433;4;2;8058.0;8195.0
+peak_rpm=+;0.402;5;2;8058.0;8195.0
+normalized_losses=-, wheel_base=+;0.268;2;2;8058.0;8195.0
+curb_weight=+;0.52;7;2;7999.0;8189.0
+bore=+, curb_weight=+;0.276;2;2;7999.0;8189.0
+engine_size=+;0.394;4;2;7999.0;8189.0
+curb_weight=+, highway_mpg=-;0.26;1;2;7999.0;8189.0
+bore=+, engine_size=+;0.276;3;2;7999.0;8189.0
+curb_weight=+, engine_size=+;0.299;3;2;7999.0;8189.0
+curb_weight=+, horsepower=+;0.26;1;2;7999.0;8189.0
+width=+;0.425;5;3;7999.0;8195.0
+bore=+, horsepower=+;0.26;2;3;7995.0;8189.0
+bore=+, stroke=-;0.276;2;2;7995.0;8058.0
+compression_ratio=-, stroke=-;0.252;1;2;7995.0;8058.0
+highway_mpg=-, horsepower=+;0.339;4;3;7995.0;8189.0
+city_mpg=-, compression_ratio=-, highway_mpg=-;0.299;2;3;7995.0;8189.0
+city_mpg=-, highway_mpg=-;0.354;3;3;7995.0;8189.0
+highway_mpg=-;0.417;4;3;7995.0;8189.0
+city_mpg=-;0.402;4;3;7995.0;8189.0
+city_mpg=-, compression_ratio=-, horsepower=+;0.276;2;3;7995.0;8189.0
+normalized_losses=+;0.449;5;2;7995.0;8058.0
+height=-;0.433;3;3;7995.0;8189.0
+stroke=-;0.433;4;2;7995.0;8058.0
+length=-;0.488;5;2;7995.0;8058.0
+height=-, normalized_losses=+;0.268;1;2;7995.0;8058.0
+horsepower=+, normalized_losses=+;0.252;2;2;7995.0;8058.0
+city_mpg=-, normalized_losses=+;0.252;1;2;7995.0;8058.0
+horsepower=+;0.457;6;3;7995.0;8189.0
+length=-, normalized_losses=+;0.268;1;2;7995.0;8058.0
+compression_ratio=-;0.433;3;3;7995.0;8189.0
+compression_ratio=-, highway_mpg=-;0.307;2;3;7995.0;8189.0
+compression_ratio=-, horsepower=+;0.283;2;3;7995.0;8189.0
+city_mpg=-, horsepower=+;0.339;4;3;7995.0;8189.0
+city_mpg=-, compression_ratio=-;0.323;2;3;7995.0;8189.0
+bore=+;0.449;6;3;7995.0;8189.0
+city_mpg=-, highway_mpg=-, horsepower=+;0.307;3;3;7995.0;8189.0
+height=-, length=-;0.276;1;2;7995.0;8058.0
+height=-, horsepower=+;0.283;1;3;7995.0;8189.0
+city_mpg=-, compression_ratio=-, highway_mpg=-, horsepower=+;0.26;2;3;7995.0;8189.0
+city_mpg=-, compression_ratio=-, highway_mpg=-, horsepower=+;0.26;1;2;7898.0;7957.0
+normalized_losses=+;0.449;4;2;7898.0;7957.0
+city_mpg=-, compression_ratio=-;0.323;1;2;7898.0;7957.0
+city_mpg=-, highway_mpg=-;0.354;2;2;7898.0;7957.0
+city_mpg=-;0.402;3;2;7898.0;7957.0
+compression_ratio=-, highway_mpg=-;0.307;1;2;7898.0;7957.0
+horsepower=+, peak_rpm=+;0.252;2;2;7898.0;7957.0
+city_mpg=-, horsepower=+;0.339;3;2;7898.0;7957.0
+peak_rpm=+;0.402;4;2;7898.0;7957.0
+highway_mpg=-, horsepower=+;0.339;3;2;7898.0;7957.0
+highway_mpg=-;0.417;3;2;7898.0;7957.0
+city_mpg=-, compression_ratio=-, highway_mpg=-;0.299;1;2;7898.0;7957.0
+city_mpg=-, highway_mpg=-, horsepower=+;0.307;2;2;7898.0;7957.0
+city_mpg=-, compression_ratio=-, horsepower=+;0.276;1;2;7898.0;7957.0
+compression_ratio=-;0.433;2;2;7898.0;7957.0
+bore=-;0.417;4;2;7898.0;7957.0
+horsepower=+;0.457;5;2;7898.0;7957.0
+compression_ratio=-, horsepower=+;0.283;1;2;7898.0;7957.0
+bore=-, peak_rpm=+;0.252;3;2;7898.0;7957.0
+normalized_losses=-, stroke=-;0.276;1;2;7895.0;7898.0
+curb_weight=+;0.52;6;2;7895.0;7898.0
+curb_weight=+, normalized_losses=-;0.291;2;2;7895.0;7898.0
+width=-;0.409;3;2;7895.0;7898.0
+stroke=-;0.433;3;2;7895.0;7898.0
+normalized_losses=-;0.496;5;2;7895.0;7898.0
+bore=-;0.417;3;2;7775.0;7895.0
+bore=-, peak_rpm=+;0.252;2;2;7775.0;7895.0
+peak_rpm=+;0.402;3;2;7775.0;7895.0
+bore=-, stroke=+;0.276;1;2;7775.0;7895.0
+height=+;0.465;5;2;7775.0;7895.0
+stroke=+;0.425;2;2;7775.0;7895.0
+curb_weight=+;0.52;5;2;7738.0;7788.0
+engine_size=+;0.394;3;2;7738.0;7788.0
+curb_weight=+, engine_size=+;0.299;2;2;7738.0;7788.0
+length=+, wheel_base=+;0.323;2;2;7689.0;7775.0
+wheel_base=+, width=+;0.268;2;2;7689.0;7775.0
+peak_rpm=-;0.378;4;2;7689.0;7775.0
+length=+;0.441;4;2;7689.0;7775.0
+bore=+, length=+;0.26;2;2;7689.0;7775.0
+length=+, width=+;0.283;2;2;7689.0;7775.0
+wheel_base=+;0.433;3;2;7689.0;7775.0
+bore=+, stroke=-;0.276;1;2;7689.0;7775.0
+bore=+, wheel_base=+;0.252;2;2;7689.0;7775.0
+stroke=-;0.433;2;2;7689.0;7775.0
+width=+;0.425;4;2;7689.0;7775.0
+compression_ratio=+;0.402;3;3;7689.0;7788.0
+curb_weight=-;0.457;4;2;7609.0;7738.0
+bore=+;0.449;5;3;7609.0;7775.0
+peak_rpm=+, wheel_base=-;0.26;1;2;7463.0;7609.0
+normalized_losses=+;0.449;3;3;7463.0;7689.0
+normalized_losses=+, wheel_base=-;0.26;1;3;7463.0;7689.0
+highway_mpg=+, horsepower=-;0.307;1;2;7463.0;7609.0
+bore=-, peak_rpm=+;0.252;1;2;7463.0;7609.0
+peak_rpm=+;0.402;2;2;7463.0;7609.0
+highway_mpg=+;0.37;2;2;7463.0;7609.0
+wheel_base=-;0.425;1;3;7463.0;7689.0
+horsepower=-;0.402;3;2;7463.0;7609.0
+bore=-;0.417;2;2;7463.0;7609.0
+width=+;0.425;3;2;7349.0;7463.0
+peak_rpm=-;0.378;3;2;7349.0;7463.0
+stroke=-;0.433;1;2;7349.0;7463.0
+height=-;0.433;2;2;7295.0;7349.0
+bore=+;0.449;4;2;7295.0;7299.0
+length=+;0.441;3;2;7295.0;7349.0
+length=-, width=-;0.283;1;2;7198.0;7295.0
+width=-;0.409;2;3;7198.0;7299.0
+length=-;0.488;4;2;7198.0;7295.0
+height=+;0.465;4;2;7198.0;7295.0
+highway_mpg=-, horsepower=+;0.339;2;2;7099.0;7295.0
+highway_mpg=-;0.417;2;2;7099.0;7295.0
+horsepower=+;0.457;4;2;7099.0;7295.0
+width=+;0.425;2;2;7053.0;7198.0
+length=+, wheel_base=+;0.323;1;2;7053.0;7198.0
+engine_size=-;0.386;2;3;7053.0;7295.0
+wheel_base=+;0.433;2;3;7053.0;7295.0
+length=+;0.441;2;2;7053.0;7198.0
+length=+, width=+;0.283;1;2;7053.0;7198.0
+wheel_base=+, width=+;0.268;1;2;7053.0;7198.0
+height=+;0.465;3;2;6938.0;7099.0
+city_mpg=-, horsepower=+;0.339;2;2;6918.0;7053.0
+city_mpg=-;0.402;2;2;6918.0;7053.0
+engine_size=+;0.394;2;2;6918.0;7053.0
+bore=+, engine_size=+;0.276;2;2;6918.0;7053.0
+length=-;0.488;3;2;6918.0;7053.0
+horsepower=+;0.457;3;2;6918.0;7053.0
+bore=+, horsepower=+;0.26;1;2;6918.0;7053.0
+bore=+;0.449;3;3;6855.0;7053.0
+compression_ratio=-;0.433;1;2;6849.0;6918.0
+horsepower=+;0.457;2;2;6795.0;6855.0
+horsepower=+, peak_rpm=+;0.252;1;2;6795.0;6855.0
+horsepower=+, stroke=+;0.26;1;2;6795.0;6855.0
+normalized_losses=+, stroke=+;0.252;1;2;6795.0;6855.0
+stroke=+;0.425;1;2;6795.0;6855.0
+horsepower=+, normalized_losses=+;0.252;1;2;6795.0;6855.0
+normalized_losses=+;0.449;2;2;6795.0;6855.0
+peak_rpm=+;0.402;1;2;6795.0;6855.0
+curb_weight=-, length=-;0.299;2;2;6692.0;6795.0
+length=-;0.488;2;2;6692.0;6795.0
+curb_weight=-;0.457;3;3;6669.0;6795.0
+normalized_losses=-;0.496;4;3;6669.0;6795.0
+engine_size=-;0.386;1;2;6649.0;6692.0
+normalized_losses=+;0.449;1;2;6575.0;6669.0
+width=+;0.425;1;2;6575.0;6669.0
+curb_weight=+;0.52;4;2;6575.0;6669.0
+length=+;0.441;1;2;6529.0;6649.0
+bore=+;0.449;2;2;6529.0;6649.0
+bore=+, length=+;0.26;1;2;6529.0;6649.0
+horsepower=-;0.402;2;3;6529.0;6669.0
+peak_rpm=-;0.378;2;2;6529.0;6649.0
+height=-;0.433;1;2;6488.0;6575.0
+curb_weight=-;0.457;2;2;6488.0;6575.0
+compression_ratio=+;0.402;2;2;6488.0;6575.0
+city_mpg=-;0.402;1;2;6479.0;6529.0
+horsepower=+;0.457;1;2;6479.0;6529.0
+highway_mpg=-;0.417;1;2;6479.0;6529.0
+city_mpg=-, horsepower=+;0.339;1;2;6479.0;6529.0
+highway_mpg=-, horsepower=+;0.339;1;2;6479.0;6529.0
+city_mpg=-, highway_mpg=-;0.354;1;2;6479.0;6529.0
+city_mpg=-, highway_mpg=-, horsepower=+;0.307;1;2;6479.0;6529.0
+normalized_losses=-;0.496;3;2;6229.0;6338.0
+horsepower=-;0.402;1;2;6229.0;6479.0
+curb_weight=+;0.52;3;2;5572.0;6229.0
+normalized_losses=-;0.496;2;3;5499.0;6095.0
+curb_weight=+;0.52;2;2;5399.0;5572.0
+height=+;0.465;2;2;5389.0;5499.0
+width=-;0.409;1;2;5389.0;5499.0
+bore=-;0.417;1;2;5348.0;5399.0
+compression_ratio=+;0.402;1;2;5348.0;5399.0
+city_mpg=+, compression_ratio=+;0.299;1;2;5348.0;5399.0
+curb_weight=-, length=-;0.299;1;2;5348.0;5399.0
+curb_weight=-;0.457;1;2;5348.0;5399.0
+compression_ratio=+, highway_mpg=+;0.252;1;2;5348.0;5399.0
+bore=-, length=-;0.268;1;2;5348.0;5399.0
+length=-;0.488;1;3;5195.0;5399.0
+city_mpg=+, highway_mpg=+;0.323;1;3;5195.0;5399.0
+city_mpg=+;0.386;1;3;5195.0;5399.0
+highway_mpg=+;0.37;1;3;5195.0;5399.0
+wheel_base=+;0.433;1;2;5151.0;5348.0
+bore=+, engine_size=+;0.276;1;2;5151.0;5348.0
+bore=+, curb_weight=+;0.276;1;2;5151.0;5348.0
+height=+;0.465;1;2;5151.0;5348.0
+engine_size=+;0.394;1;2;5151.0;5348.0
+curb_weight=+, height=+;0.291;1;2;5151.0;5348.0
+curb_weight=+, engine_size=+;0.299;1;2;5151.0;5348.0
+curb_weight=+;0.52;1;2;5151.0;5348.0
+curb_weight=+, peak_rpm=-;0.268;1;2;5151.0;5348.0
+height=+, wheel_base=+;0.315;1;2;5151.0;5348.0
+bore=+;0.449;1;2;5151.0;5348.0
+curb_weight=+, wheel_base=+;0.291;1;2;5151.0;5348.0
+curb_weight=+, normalized_losses=-;0.291;1;2;5151.0;5348.0
+height=+, normalized_losses=-;0.299;1;2;5151.0;5348.0
+normalized_losses=-, peak_rpm=-;0.252;1;2;5151.0;5348.0
+bore=+, wheel_base=+;0.252;1;2;5151.0;5348.0
+normalized_losses=-, wheel_base=+;0.268;1;2;5151.0;5348.0
+bore=+, normalized_losses=-;0.268;1;2;5151.0;5348.0
+peak_rpm=-;0.378;1;2;5151.0;5348.0
+normalized_losses=-;0.496;1;2;5151.0;5348.0
